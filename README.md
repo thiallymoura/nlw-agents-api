@@ -70,15 +70,9 @@ npm run db:seed
 npm run dev
 ```
 
-**Produção:**
-```bash
-npm start
-```
-
 ## 📚 Scripts Disponíveis
 
 - `npm run dev` - Executa o servidor em modo de desenvolvimento com hot reload
-- `npm start` - Executa o servidor em modo de produção
 - `npm run db:seed` - Popula o banco de dados com dados de exemplo
 
 ## 🌐 Endpoints
